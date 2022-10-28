@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Adeel Shoukat
 - 👀 I’m interested in Programming specially Mobile App Development
-- 🌱 I’m currently learning React Native (Building apps on Xamarin)
+- 🌱 I’m Sr. React-Native Dev. also has expiertise on (Xamarin, Ionic)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: madeelshoukatali@gmail.com
 
