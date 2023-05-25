@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Adeel Shoukat
 - 👀 I’m interested in Programming specially Mobile App Development
-- 🌱 I’m Sr. React-Native Dev. also have expiertise on (Xamarin, Ionic, Flutter)
+- 🌱 I’m Sr. React-Native Dev. also have expertise in Xamarin, Ionic, Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: madeelshoukatali@gmail.com
 
